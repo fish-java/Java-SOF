@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class
